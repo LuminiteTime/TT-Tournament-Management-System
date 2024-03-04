@@ -1,0 +1,65 @@
+[
+  {
+    "tableIndex": 1,
+    "indexInTable": 1,
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "rating": 189
+  },
+  {
+    "tableIndex": 1,
+    "indexInTable": 2,
+    "firstName": "John",
+    "lastName": "Smith",
+    "rating": 135
+  },
+  {
+    "tableIndex": 1,
+    "indexInTable": 3,
+    "firstName": "David",
+    "lastName": "Brown",
+    "rating": 104
+  },
+  {
+    "tableIndex": 1,
+    "indexInTable": 4,
+    "firstName": "Emily",
+    "lastName": "Davis",
+    "rating": 72
+  },
+  {
+    "tableIndex": 1,
+    "indexInTable": 5,
+    "firstName": "Ava",
+    "lastName": "Wilson",
+    "rating": 36
+  },
+  {
+    "tableIndex": 2,
+    "indexInTable": 1,
+    "firstName": "Benjamin",
+    "lastName": "Miller",
+    "rating": 163
+  },
+  {
+    "tableIndex": 2,
+    "indexInTable": 2,
+    "firstName": "Daniel",
+    "lastName": "Anderson",
+    "rating": 122
+  },
+  {
+    "tableIndex": 2,
+    "indexInTable": 3,
+    "firstName": "Sophia",
+    "lastName": "Taylor",
+    "rating": 81
+  },
+  {
+    "tableIndex": 2,
+    "indexInTable": 4,
+    "firstName": "Olivia",
+    "lastName": "White",
+    "rating": 47
+  }
+]

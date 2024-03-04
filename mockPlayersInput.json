@@ -1,0 +1,47 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "rating": 135
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Davis",
+    "rating": 72
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "rating": 189
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "White",
+    "rating": 47
+  },
+  {
+    "firstName": "David",
+    "lastName": "Brown",
+    "rating": 104
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Taylor",
+    "rating": 81
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Miller",
+    "rating": 163
+  },
+  {
+    "firstName": "Ava",
+    "lastName": "Wilson",
+    "rating": 36
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Anderson",
+    "rating": 122
+  }
+]
